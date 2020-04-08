@@ -1,5 +1,5 @@
 interface GoogleProps {
-  types?: '(cities)' | 'geocode' | 'establishments' | 'address'
+  types?: '(regions)' | '(cities)' | 'geocode' | 'establishment' | 'address'
   language?: string
   location?: ''
   radius?: number
