@@ -94,7 +94,7 @@ const App = () => {
 
 | property       | type     | description                                                                                        |
 | -------------- | -------- | -------------------------------------------------------------------------------------------------- |
-| `types`        | `string` | `(cities)`, `geocode`, `establishments`, or `address`                                              |
+| `types`        | `string` | `(regions`, `(cities)`, `geocode`, `establishment`, or `address`                                              |
 | `language`     | `string` | Language for results to return                                                                     |
 | `location`     | `string` | `37.7749, -122.4194` or `San Francisco, CA`                                                        |
 | `radius`       | number   | Results within the radius of the search (meters)                                                   |
